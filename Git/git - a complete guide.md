@@ -119,6 +119,7 @@ git checkout main
 git merge feature-branch
 ```
 
+[Watch git merge](assets/git-merge-animation.mp4)
 <video id="myVideo" controls width="640" height="360"  autoplay loop controls>
   <source src="assets/git-merge-animation.mp4" type="video/mp4">
   <source src="assets/git-merge-animation.gif" type="video/webm">
@@ -138,6 +139,7 @@ git checkout feature-branch
 git rebase main
 ```
 
+[Watch git rebase](assets/git-rebase-animation.mp4)
 <video id="myVideo" controls width="640" height="360"  autoplay loop controls>
   <source src="assets/git-rebase-animation.mp4" type="video/mp4">
   <source src="assets/git-rebase-animation.gif" type="video/webm">
@@ -155,6 +157,7 @@ git checkout <your_feature_branch>
 git rebase -i <base_branch>
 ```
 
+[Watch squash commit](assets/squash-commit-animation.mp4)
 <video id="myVideo" controls width="640" height="360"  autoplay loop controls>
   <source src="assets/squash-commit-animation.mp4" type="video/mp4">
   <source src="assets/squash-commit-animation.gif" type="video/webm">
